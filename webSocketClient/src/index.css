@@ -1,0 +1,14 @@
+.title {
+    text-align: center;
+    width: 100%;
+    padding: 2%;
+    background-color: pink;
+    color: white;
+}
+
+.bottom {
+    position: fixed;
+    width: 100%;
+    left: 0;
+    bottom: 0;
+  }
